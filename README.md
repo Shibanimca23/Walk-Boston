@@ -1,10 +1,15 @@
-# Walk-Boston
-The boston city data project display's the top five earner's name and theie salaries.That will display all the employees who make minimum 200,000 salary from boston city on the web page.
+# BOSTON
 
-### Steps to run
-step 1: clone the repository or download the HTML to your local computer.
+Description:
 
-step 2:Open the HTML file in your browser.
+This JavaScript program retrieves and displays information about the top five earning employees in Boston, providing key details for each employee.
 
-### Future enhancement
-In this project further improvement is enhanced by adding  new more data about employees and can make code easier.
+How to run the code:
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying Boston data.
+
+## Future Enhancement:
+
+Implementing a search or filter feature to allow users to specify custom criteria for identifying top earners within a larger dataset.
